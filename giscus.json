@@ -1,0 +1,9 @@
+{
+  "origins": [
+    "https://weitsehsu.com",
+    "https://www.weitsehsu.com"
+  ],
+  "originsRegex": [
+    "http:\/\/localhost:[0-9]+"
+  ]
+}
